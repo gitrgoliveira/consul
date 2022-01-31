@@ -1,4 +1,4 @@
-![Consul](https://github.com/hashicorp/consul/blob/main/website/public/img/logo-hashicorp.svg)
+<img src="https://github.com/hashicorp/consul/blob/main/website/public/img/logo-hashicorp.svg" alt="Consul logo" width="200px">
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/_/consul.svg)](https://hub.docker.com/_/consul) [![Go Report Card](https://goreportcard.com/badge/github.com/hashicorp/consul)](https://goreportcard.com/report/github.com/hashicorp/consul)
 
